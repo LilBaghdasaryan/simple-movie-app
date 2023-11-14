@@ -1,0 +1,122 @@
+@import "./theme.css";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+
+/* .size {
+  font-size: var(--size);
+} */
+
+.color-primary {
+  color: var(--color-primary);
+}
+
+.background {
+  background-color: var(--background);
+}
+
+.color {
+  color: var(--color);
+}
+
+.t-regular {
+font-weight: regular;
+font-size: var(--unnamed-font-size-16);
+}
+
+.t-bold {
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-32);
+}
+.t-medium{
+  font-weight: var(--unnamed-font-weight-normal);
+  font-size: var(--unnamed-font-size-24);
+}
+
+.character-style {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-92);
+  line-height: var(--unnamed-line-spacing-42);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  text-transform: var(--unnamed-text-transform-uppercase);
+}
+
+.character-style-2 {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-normal);
+  font-size: var(--unnamed-font-size-36);
+  line-height: var(--unnamed-line-spacing-43);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  }
+  .character-style-3 {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-medium);
+  font-size: var(--unnamed-font-size-32);
+  line-height: var(--unnamed-line-spacing-38);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  }
+  .character-style-4 {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-32);
+  line-height: var(--unnamed-line-spacing-30);
+  letter-spacing: var(--unnamed-character-spacing--0-32);
+  color: var(--unnamed-color-ffffff);
+  }
+  .character-style-5 {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-normal);
+  font-size: var(--unnamed-font-size-32);
+  line-height: var(--unnamed-line-spacing-42);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  }
+  .character-style-6 {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-24);
+  line-height: var(--unnamed-line-spacing-42);
+  letter-spacing: var(--unnamed-character-spacing-4-8);
+  color: var(--unnamed-color-858688);
+  text-transform: var(--unnamed-text-transform-uppercase);
+  }
+  .character-style-7 {
+  font-family: var(--unnamed-font-family-tajawal);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-normal);
+  font-size: var(--unnamed-font-size-24);
+  line-height: var(--unnamed-line-spacing-30);
+  letter-spacing: var(--unnamed-character-spacing--0-24);
+  color: var(--unnamed-color-ffffff);
+  }

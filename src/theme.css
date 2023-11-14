@@ -1,0 +1,44 @@
+:root {
+
+/* Color */
+--color: #F1F1F1;
+--background: #040404;
+--color-primary: #0C0C0C;
+--unnamed-color-040404: #040404; 
+--unnamed-color-f1f1f1: #F1F1F1; 
+--unnamed-color-3b6bf0e5: #3B6BF0E5; 
+--unnamed-color-0c0c0c: #0C0C0C; 
+--unnamed-color-2727f5: #2727F5; 
+--unnamed-color-001671: #001671; 
+--unnamed-color-3b486d: #3B486D; 
+--unnamed-color-858688: #858688; 
+--unnamed-color-ffffff: #FFFFFF; 
+
+/* Font/text values */
+--unnamed-font-family-tajawal: Tajawal;
+--unnamed-font-style-normal: normal;
+--unnamed-font-weight-normal: normal;
+--unnamed-font-weight-bold: bold;
+--unnamed-font-weight-medium: medium;
+
+/* Font size */
+--unnamed-font-size-24: 24px;
+--unnamed-font-size-32: 32px;
+--unnamed-font-size-36: 36px;
+--unnamed-font-size-92: 92px;
+--unnamed-font-size-16: 16px;
+
+/* Character spacing */
+--unnamed-character-spacing-0: 0px;
+--unnamed-character-spacing--0-24: -0.24px;
+--unnamed-character-spacing-4-8: 4.8px;
+--unnamed-character-spacing--0-32: -0.32px;
+
+/* Line spacing */
+--unnamed-line-spacing-30: 30px;
+--unnamed-line-spacing-38: 38px;
+--unnamed-line-spacing-42: 42px;
+--unnamed-line-spacing-43: 43px;
+
+--unnamed-text-transform-uppercase: uppercase;
+  }
